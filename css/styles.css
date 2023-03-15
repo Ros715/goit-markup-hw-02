@@ -1,0 +1,224 @@
+.list {list-style: none;}
+
+.link { text-decoration: none;}
+
+.header {
+    background-color: #FFFFFF;
+}
+
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-style: ExtraBold;
+    font-weight: 800;
+    font-size: 18px;
+    height: 0,85;
+    letter-spacing: 0,03em;
+    text-transform: uppercase;
+
+    color: #4D5AE5;
+
+    text-decoration: none;
+}
+.header-logo-nav{
+    color: #2E2F42;
+}
+.logo-nav {
+    color: #F4F4FD
+}
+.menu-link {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 0,66;
+
+    letter-spacing: 0.02em;
+
+    color: #2E2F42;
+}
+
+.contact {
+    font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 0,66;
+        letter-spacing: 0.02em;
+
+        color: #434455;
+}
+.section{
+    background-color: #2E2F42;
+}
+.hero {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 0,93;
+    text-align: center;
+    letter-spacing: 0.02em;
+    
+    color: #FFFFFF;
+}
+
+.modal-btn {
+    font-family: 'Roboto',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height:0,66;
+            
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    
+    color: #FFFFFF; 
+    background-color: #4D5AE5;    
+}
+
+.modal-btn:hover
+.modal-btn:focus {
+    background-color: #9747FF;
+}
+
+.section-about{
+background-color: #E5E5E5 ;
+}
+
+.section-about-item {
+    font-family: 'Roboto, sans-serif';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 0,83;
+    letter-spacing: 0.02em;
+
+color: #2E2F42;
+}
+
+.discription-about {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 0,66;
+    letter-spacing: 0.02em;
+
+    color: #434455;
+}
+.section-features{
+   background-color: #E5E5E5;
+}
+.section-employees {
+background-color: #F4F4FD;
+}
+.employee {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 0, 83;
+    letter-spacing: 0.02em;
+
+    color: #2E2F42;
+
+}
+
+.employee-list {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 0, 66;
+    letter-spacing: 0.02em;
+
+    color: #434455
+}
+.section-name {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 0, 9;
+
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+
+    color: #2E2F42;
+}
+
+.footer{
+    background-color: #2E2F42;
+}
+
+.footer-item {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 0.66;
+    letter-spacing: 0.02em;
+
+    color: #F4F4FD;
+}
+
+
+
+/*PORTFOLIO*/
+
+.section-filter {
+    background-color: #E5E5E5;
+}
+
+.filter-btn {
+    font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 0,66;
+    
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.04em;
+    
+        color: #4D5AE5;
+        background-color: #F4F4FD;
+}
+
+.filter-list .filter-btn:hover
+.filter-list .filter-btn:focus {
+    background-color:#404BBF;
+}
+
+.section-opportunity {
+    background-color: #E5E5E5;
+}
+
+.opportunity-item {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 0,83;
+    letter-spacing: 0.02em;
+
+    color: #2E2F42; 
+}
+
+.opportunity-app{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 0,66;
+    letter-spacing: 0.02em;
+
+    /* SLATE */
+
+    color: #434455;
+    
+}
