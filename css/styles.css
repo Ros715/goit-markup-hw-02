@@ -1,6 +1,14 @@
+:root {
+    --primary-text-color: #2E2F42;
+    --title-text-color: #434445;
+    --accent-color: #4D5AE5;
+    --primary-bg-color: #E7E9FC;
+}
+
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
+    background-color: #FFFFFF;
 }
 
 .list {list-style: none;}
@@ -98,7 +106,7 @@ color: #404bbf;
 
 .modal-btn:hover,
 .modal-btn:focus {
-color: #404BBF;
+background-color: #404BBF;
 }
 
 .section-about{
